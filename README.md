@@ -2,4 +2,7 @@
 
 ## instructions 
 
-the system chooses a random number between 0 and 100 and you have to guess that number
++ the system chooses a random number between 1 and 100 and you have to guess that number
++ you have 10 tries
++ after every try you get notified whether the number you guessed was to high or too low  
+
